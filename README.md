@@ -22,9 +22,9 @@ You don't need to install anything. The entire simulator runs in the cloud.
 3.  Write or paste your SPICE netlist in the editor.
 4.  Click **Simulate**.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/YOUR_NOTEBOOK_NAME.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rick-starnez/simulador-spice-modo_mixto/blob/main/SimuladorSPICE.ipynb)
 
-*(Remember to replace `YOUR_USERNAME`, `YOUR_REPO_NAME`, and `YOUR_NOTEBOOK_NAME.ipynb` with your actual GitHub details).*
+(Remember to replace `YOUR_USERNAME`, `YOUR_REPO_NAME`, and `YOUR_NOTEBOOK_NAME.ipynb` with your actual GitHub details).*
 
 ## 📖 Netlist Syntax
 
